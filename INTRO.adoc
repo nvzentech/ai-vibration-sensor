@@ -1,11 +1,9 @@
 = TinyML-Enabled Industrial Machine Vibration Sensing and Monitoring Using LoRaWAN
 :author: Neevee
 :revdate: 2026-08-12
-:toc: left
-:toclevels: 3
 :icons: font
 
-== Abstract
+== Overview
 
 In modern smart manufacturing, early detection of mechanical abnormalities is essential for preventing catastrophic machine failures. A conventional IoT-based vibration monitoring system requires high bandwidth and high power demands to stream continuous raw data to the cloud.
 
